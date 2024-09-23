@@ -27,3 +27,7 @@ for i in range(1000):
 print (Sum)
 
 This is [Official python website](https://www.python.org)
+
+![Installation of pandas](Screenshot.png)
+
+Meme: Life Is Like the Ocean
