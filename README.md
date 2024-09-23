@@ -1,6 +1,6 @@
-###Assignment 1
+# Assignment 1
 
-## Method 1
+# Method 1
 Sum = 0
 
 for i in range(1000):
@@ -10,7 +10,7 @@ for i in range(1000):
 print (Sum)
 
 
-## Method 2
+# Method 2
 # Find the largest multiple of 3,5 and 15 below 1000
 largest_multiple_of_3 = 999 - (999 % 3)
 largest_multiple_of_5 = 999 - (999 % 5)
